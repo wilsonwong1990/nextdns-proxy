@@ -1,4 +1,4 @@
-FROM debian:11
+FROM ubuntu:24.04
 
 EXPOSE 53
 EXPOSE 53/udp
